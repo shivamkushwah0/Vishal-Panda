@@ -6,7 +6,7 @@ int main()
 	system("cls");
 	float large(float arr[],int n);
 	char ch;
-	int i=0;
+	int i=0;							//this is a very simple code and needs no readable comments
 	float amount[50],biggest;
 	cout<<"Enter the number of element (max 50)\n";
 	int p;
